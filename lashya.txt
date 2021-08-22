@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 how to do this 
+=======
+can i try  this good to be
+>>>>>>> 8bf38f226deaba6d7ac357d960918e35fe49298d
